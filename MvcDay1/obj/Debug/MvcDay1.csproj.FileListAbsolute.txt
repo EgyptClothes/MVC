@@ -1,0 +1,98 @@
+D:\MvcDay1\MvcDay1\bin\MvcDay1.dll
+D:\MvcDay1\MvcDay1\bin\MvcDay1.pdb
+D:\MvcDay1\MvcDay1\bin\Antlr3.Runtime.dll
+D:\MvcDay1\MvcDay1\bin\DotNetOpenAuth.AspNet.dll
+D:\MvcDay1\MvcDay1\bin\DotNetOpenAuth.Core.dll
+D:\MvcDay1\MvcDay1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+D:\MvcDay1\MvcDay1\bin\DotNetOpenAuth.OAuth.dll
+D:\MvcDay1\MvcDay1\bin\DotNetOpenAuth.OpenId.dll
+D:\MvcDay1\MvcDay1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\MvcDay1\MvcDay1\bin\EntityFramework.dll
+D:\MvcDay1\MvcDay1\bin\Microsoft.Web.Infrastructure.dll
+D:\MvcDay1\MvcDay1\bin\Microsoft.Web.WebPages.OAuth.dll
+D:\MvcDay1\MvcDay1\bin\Newtonsoft.Json.dll
+D:\MvcDay1\MvcDay1\bin\System.Net.Http.Formatting.dll
+D:\MvcDay1\MvcDay1\bin\System.Web.Helpers.dll
+D:\MvcDay1\MvcDay1\bin\System.Web.Http.dll
+D:\MvcDay1\MvcDay1\bin\System.Web.Http.WebHost.dll
+D:\MvcDay1\MvcDay1\bin\System.Web.Mvc.dll
+D:\MvcDay1\MvcDay1\bin\System.Web.Optimization.dll
+D:\MvcDay1\MvcDay1\bin\System.Web.Razor.dll
+D:\MvcDay1\MvcDay1\bin\System.Web.WebPages.Deployment.dll
+D:\MvcDay1\MvcDay1\bin\System.Web.WebPages.dll
+D:\MvcDay1\MvcDay1\bin\System.Web.WebPages.Razor.dll
+D:\MvcDay1\MvcDay1\bin\WebGrease.dll
+D:\MvcDay1\MvcDay1\bin\WebMatrix.Data.dll
+D:\MvcDay1\MvcDay1\bin\WebMatrix.WebData.dll
+D:\MvcDay1\MvcDay1\bin\EntityFramework.xml
+D:\MvcDay1\MvcDay1\bin\Newtonsoft.Json.xml
+D:\MvcDay1\MvcDay1\bin\System.Net.Http.Formatting.xml
+D:\MvcDay1\MvcDay1\bin\System.Web.Helpers.xml
+D:\MvcDay1\MvcDay1\bin\System.Web.Http.xml
+D:\MvcDay1\MvcDay1\bin\System.Web.Http.WebHost.xml
+D:\MvcDay1\MvcDay1\bin\System.Web.Mvc.xml
+D:\MvcDay1\MvcDay1\bin\System.Web.Razor.xml
+D:\MvcDay1\MvcDay1\bin\System.Web.WebPages.xml
+D:\MvcDay1\MvcDay1\bin\System.Web.WebPages.Deployment.xml
+D:\MvcDay1\MvcDay1\bin\System.Web.WebPages.Razor.xml
+D:\MvcDay1\MvcDay1\bin\WebMatrix.Data.xml
+D:\MvcDay1\MvcDay1\bin\Microsoft.Web.WebPages.OAuth.xml
+D:\MvcDay1\MvcDay1\bin\WebMatrix.WebData.xml
+D:\MvcDay1\MvcDay1\bin\DotNetOpenAuth.AspNet.xml
+D:\MvcDay1\MvcDay1\bin\DotNetOpenAuth.Core.xml
+D:\MvcDay1\MvcDay1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+D:\MvcDay1\MvcDay1\bin\DotNetOpenAuth.OAuth.xml
+D:\MvcDay1\MvcDay1\bin\DotNetOpenAuth.OpenId.xml
+D:\MvcDay1\MvcDay1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\MvcDay1\MvcDay1\obj\Debug\MvcDay1.csprojResolveAssemblyReference.cache
+D:\MvcDay1\MvcDay1\obj\Debug\MvcDay1.dll
+D:\MvcDay1\MvcDay1\obj\Debug\MvcDay1.pdb
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\MvcDay1.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\MvcDay1.pdb
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\Antlr3.Runtime.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\DotNetOpenAuth.AspNet.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\DotNetOpenAuth.Core.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\DotNetOpenAuth.OAuth.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\DotNetOpenAuth.OpenId.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\EntityFramework.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\Microsoft.Web.Infrastructure.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\Microsoft.Web.WebPages.OAuth.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\Newtonsoft.Json.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\System.Net.Http.Formatting.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\System.Web.Helpers.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\System.Web.Http.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\System.Web.Http.WebHost.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\System.Web.Mvc.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\System.Web.Optimization.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\System.Web.Razor.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\System.Web.WebPages.Deployment.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\System.Web.WebPages.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\System.Web.WebPages.Razor.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\WebGrease.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\WebMatrix.Data.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\WebMatrix.WebData.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\EntityFramework.xml
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\Newtonsoft.Json.xml
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\System.Net.Http.Formatting.xml
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\System.Web.Helpers.xml
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\System.Web.Http.xml
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\System.Web.Http.WebHost.xml
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\System.Web.Mvc.xml
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\System.Web.Razor.xml
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\System.Web.WebPages.xml
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\System.Web.WebPages.Deployment.xml
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\System.Web.WebPages.Razor.xml
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\WebMatrix.Data.xml
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\Microsoft.Web.WebPages.OAuth.xml
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\WebMatrix.WebData.xml
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\DotNetOpenAuth.AspNet.xml
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\DotNetOpenAuth.Core.xml
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\DotNetOpenAuth.OAuth.xml
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\DotNetOpenAuth.OpenId.xml
+F:\MVC Vedio\MvcDay1\MvcDay1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\MVC Vedio\MvcDay1\MvcDay1\obj\Debug\MvcDay1.csprojResolveAssemblyReference.cache
+F:\MVC Vedio\MvcDay1\MvcDay1\obj\Debug\MvcDay1.dll
+F:\MVC Vedio\MvcDay1\MvcDay1\obj\Debug\MvcDay1.pdb
